@@ -1,0 +1,12 @@
+D:\Programming\Near Last Semester\SEPM\Project\ASP.Net-Backend\Shift-backend\Contracts\bin\Debug\netcoreapp3.1\Contracts.deps.json
+D:\Programming\Near Last Semester\SEPM\Project\ASP.Net-Backend\Shift-backend\Contracts\bin\Debug\netcoreapp3.1\Contracts.dll
+D:\Programming\Near Last Semester\SEPM\Project\ASP.Net-Backend\Shift-backend\Contracts\bin\Debug\netcoreapp3.1\Contracts.pdb
+D:\Programming\Near Last Semester\SEPM\Project\ASP.Net-Backend\Shift-backend\Contracts\obj\Debug\netcoreapp3.1\Contracts.csprojAssemblyReference.cache
+D:\Programming\Near Last Semester\SEPM\Project\ASP.Net-Backend\Shift-backend\Contracts\obj\Debug\netcoreapp3.1\Contracts.AssemblyInfoInputs.cache
+D:\Programming\Near Last Semester\SEPM\Project\ASP.Net-Backend\Shift-backend\Contracts\obj\Debug\netcoreapp3.1\Contracts.AssemblyInfo.cs
+D:\Programming\Near Last Semester\SEPM\Project\ASP.Net-Backend\Shift-backend\Contracts\obj\Debug\netcoreapp3.1\Contracts.csproj.CoreCompileInputs.cache
+D:\Programming\Near Last Semester\SEPM\Project\ASP.Net-Backend\Shift-backend\Contracts\obj\Debug\netcoreapp3.1\Contracts.dll
+D:\Programming\Near Last Semester\SEPM\Project\ASP.Net-Backend\Shift-backend\Contracts\obj\Debug\netcoreapp3.1\Contracts.pdb
+D:\Programming\Near Last Semester\SEPM\Project\ASP.Net-Backend\Shift-backend\Contracts\bin\Debug\netcoreapp3.1\Entities.dll
+D:\Programming\Near Last Semester\SEPM\Project\ASP.Net-Backend\Shift-backend\Contracts\bin\Debug\netcoreapp3.1\Entities.pdb
+D:\Programming\Near Last Semester\SEPM\Project\ASP.Net-Backend\Shift-backend\Contracts\obj\Debug\netcoreapp3.1\Contracts.csproj.CopyComplete

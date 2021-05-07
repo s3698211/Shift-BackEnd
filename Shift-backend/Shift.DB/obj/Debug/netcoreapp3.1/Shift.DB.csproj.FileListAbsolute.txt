@@ -1,0 +1,12 @@
+D:\Programming\Near Last Semester\SEPM\Project\ASP.Net-Backend\Shift-backend\Shift.DB\bin\Debug\netcoreapp3.1\Shift.DB.deps.json
+D:\Programming\Near Last Semester\SEPM\Project\ASP.Net-Backend\Shift-backend\Shift.DB\bin\Debug\netcoreapp3.1\Shift.DB.runtimeconfig.json
+D:\Programming\Near Last Semester\SEPM\Project\ASP.Net-Backend\Shift-backend\Shift.DB\bin\Debug\netcoreapp3.1\Shift.DB.runtimeconfig.dev.json
+D:\Programming\Near Last Semester\SEPM\Project\ASP.Net-Backend\Shift-backend\Shift.DB\bin\Debug\netcoreapp3.1\Shift.DB.dll
+D:\Programming\Near Last Semester\SEPM\Project\ASP.Net-Backend\Shift-backend\Shift.DB\bin\Debug\netcoreapp3.1\Shift.DB.pdb
+D:\Programming\Near Last Semester\SEPM\Project\ASP.Net-Backend\Shift-backend\Shift.DB\obj\Debug\netcoreapp3.1\Shift.DB.csprojAssemblyReference.cache
+D:\Programming\Near Last Semester\SEPM\Project\ASP.Net-Backend\Shift-backend\Shift.DB\obj\Debug\netcoreapp3.1\Shift.DB.AssemblyInfoInputs.cache
+D:\Programming\Near Last Semester\SEPM\Project\ASP.Net-Backend\Shift-backend\Shift.DB\obj\Debug\netcoreapp3.1\Shift.DB.AssemblyInfo.cs
+D:\Programming\Near Last Semester\SEPM\Project\ASP.Net-Backend\Shift-backend\Shift.DB\obj\Debug\netcoreapp3.1\Shift.DB.csproj.CoreCompileInputs.cache
+D:\Programming\Near Last Semester\SEPM\Project\ASP.Net-Backend\Shift-backend\Shift.DB\obj\Debug\netcoreapp3.1\Shift.DB.dll
+D:\Programming\Near Last Semester\SEPM\Project\ASP.Net-Backend\Shift-backend\Shift.DB\obj\Debug\netcoreapp3.1\Shift.DB.pdb
+D:\Programming\Near Last Semester\SEPM\Project\ASP.Net-Backend\Shift-backend\Shift.DB\obj\Debug\netcoreapp3.1\Shift.DB.genruntimeconfig.cache

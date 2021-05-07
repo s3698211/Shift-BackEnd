@@ -1,0 +1,14 @@
+D:\Programming\Near Last Semester\SEPM\Project\ASP.Net-Backend\Shift-backend\LoggerService\bin\Debug\netcoreapp3.1\Contracts.dll
+D:\Programming\Near Last Semester\SEPM\Project\ASP.Net-Backend\Shift-backend\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.AssemblyInfoInputs.cache
+D:\Programming\Near Last Semester\SEPM\Project\ASP.Net-Backend\Shift-backend\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.AssemblyInfo.cs
+D:\Programming\Near Last Semester\SEPM\Project\ASP.Net-Backend\Shift-backend\LoggerService\bin\Debug\netcoreapp3.1\LoggerService.deps.json
+D:\Programming\Near Last Semester\SEPM\Project\ASP.Net-Backend\Shift-backend\LoggerService\bin\Debug\netcoreapp3.1\LoggerService.dll
+D:\Programming\Near Last Semester\SEPM\Project\ASP.Net-Backend\Shift-backend\LoggerService\bin\Debug\netcoreapp3.1\LoggerService.pdb
+D:\Programming\Near Last Semester\SEPM\Project\ASP.Net-Backend\Shift-backend\LoggerService\bin\Debug\netcoreapp3.1\Contracts.pdb
+D:\Programming\Near Last Semester\SEPM\Project\ASP.Net-Backend\Shift-backend\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.csprojAssemblyReference.cache
+D:\Programming\Near Last Semester\SEPM\Project\ASP.Net-Backend\Shift-backend\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.csproj.CoreCompileInputs.cache
+D:\Programming\Near Last Semester\SEPM\Project\ASP.Net-Backend\Shift-backend\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.csproj.CopyComplete
+D:\Programming\Near Last Semester\SEPM\Project\ASP.Net-Backend\Shift-backend\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.dll
+D:\Programming\Near Last Semester\SEPM\Project\ASP.Net-Backend\Shift-backend\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.pdb
+D:\Programming\Near Last Semester\SEPM\Project\ASP.Net-Backend\Shift-backend\LoggerService\bin\Debug\netcoreapp3.1\Entities.dll
+D:\Programming\Near Last Semester\SEPM\Project\ASP.Net-Backend\Shift-backend\LoggerService\bin\Debug\netcoreapp3.1\Entities.pdb

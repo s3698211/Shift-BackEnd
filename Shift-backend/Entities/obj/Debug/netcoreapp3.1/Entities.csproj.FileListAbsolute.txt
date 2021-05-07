@@ -1,0 +1,12 @@
+D:\Programming\Near Last Semester\SEPM\Project\ASP.Net-Backend\Shift-backend\Entities\bin\Debug\netcoreapp3.1\Entities.deps.json
+D:\Programming\Near Last Semester\SEPM\Project\ASP.Net-Backend\Shift-backend\Entities\bin\Debug\netcoreapp3.1\Entities.dll
+D:\Programming\Near Last Semester\SEPM\Project\ASP.Net-Backend\Shift-backend\Entities\bin\Debug\netcoreapp3.1\Entities.pdb
+D:\Programming\Near Last Semester\SEPM\Project\ASP.Net-Backend\Shift-backend\Entities\obj\Debug\netcoreapp3.1\Entities.csprojAssemblyReference.cache
+D:\Programming\Near Last Semester\SEPM\Project\ASP.Net-Backend\Shift-backend\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfoInputs.cache
+D:\Programming\Near Last Semester\SEPM\Project\ASP.Net-Backend\Shift-backend\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfo.cs
+D:\Programming\Near Last Semester\SEPM\Project\ASP.Net-Backend\Shift-backend\Entities\obj\Debug\netcoreapp3.1\Entities.csproj.CoreCompileInputs.cache
+D:\Programming\Near Last Semester\SEPM\Project\ASP.Net-Backend\Shift-backend\Entities\obj\Debug\netcoreapp3.1\Entities.dll
+D:\Programming\Near Last Semester\SEPM\Project\ASP.Net-Backend\Shift-backend\Entities\obj\Debug\netcoreapp3.1\Entities.pdb
+D:\Programming\Near Last Semester\SEPM\Project\ASP.Net-Backend\Shift-backend\Entities\bin\Debug\netcoreapp3.1\Entities.runtimeconfig.json
+D:\Programming\Near Last Semester\SEPM\Project\ASP.Net-Backend\Shift-backend\Entities\bin\Debug\netcoreapp3.1\Entities.runtimeconfig.dev.json
+D:\Programming\Near Last Semester\SEPM\Project\ASP.Net-Backend\Shift-backend\Entities\obj\Debug\netcoreapp3.1\Entities.genruntimeconfig.cache

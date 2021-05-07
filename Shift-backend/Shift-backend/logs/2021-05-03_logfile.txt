@@ -1,0 +1,10 @@
+2021-05-03 22:50:08.0211 INFO Shift with id:  does not exist in the database
+2021-05-03 22:50:42.3929 INFO Shift with id:  does not exist in the database
+2021-05-03 22:51:46.1617 INFO Shift with id:  does not exist in the database
+2021-05-03 22:52:49.0404 INFO Shift with id:  does not exist in the database
+2021-05-03 22:55:47.0557 INFO Shift with id: 4 doesn't exist in the database.
+2021-05-03 22:58:19.4664 INFO Shift with id:  does not exist in the database
+2021-05-03 22:58:52.5373 INFO Shift with id:  does not exist in the database
+2021-05-03 23:03:48.9283 INFO Ok
+2021-05-03 23:56:09.1940 INFO Ok
+2021-05-03 23:56:23.2275 INFO Shift with id: 5 doesn't exist in the database.
